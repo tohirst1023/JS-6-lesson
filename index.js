@@ -6,7 +6,7 @@ let amal = Number(prompt(`Amallarni kiriting:
 2: ayirish.
 3: kopaytirish.
 4: bolish.
-5: amalni Tanlang:(1/2/3/4):  
+ amalni Tanlang:(1/2/3/4):  
 `));
 
 
